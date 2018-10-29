@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4cadf19-9194-4344-ba07-b1c38d98c3f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CycleRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LeftRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultipleLeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultipleLeftRotation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PairInSortedRotated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SearchEleSortRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SearchEleSortRotate1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/RotateMatrix180Deg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/RotateMatrix180Deg1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/RotateMatrix90Deg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/SortMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Tesgt7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/MaxRowMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/MedianInRowSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/MultiplicationMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/MultiplyTwoSqureMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/ScalarMultiMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/TriangularMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/DuplicateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Program.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +35,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SortMatrix.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Matrix/SortMatrix.java">
+      <file leaf-file-name="Test3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test3.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Test4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tesgt7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Tesgt7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnagramCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Strings/AnagramCheck.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DuplicateWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Strings/DuplicateWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#614#622#0" expanded="true" />
+                <element signature="e#677#685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="FirstNonRepeatedCharecter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#2006#2026#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,6 +127,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -57,27 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OOPS/Create_Obj_4_app.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Create_Obj_4_app1.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Create_Obj_5_app.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/SwapObject1.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/SwapObject2.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/SwapObject3.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Inheritance/Test.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Encapsulation/Encapsulate.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Encapsulation/TestEncapsulate.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Abstraction/Test.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Polymorphism/Dispatch.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Polymorphism/Test.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Association/Association.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Aggregation/Aggregation.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Composition/Composition.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/Composition/AggregationVsComposition.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/This/Test.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/This/Test1.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/This/Test2.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/This/Test3.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/This/Test4.java" />
         <option value="$PROJECT_DIR$/src/OOPS/This/Test5.java" />
         <option value="$PROJECT_DIR$/src/OOPS/MethodOverLoading/Sum.java" />
         <option value="$PROJECT_DIR$/src/OOPS/MethodOverLoading/Main.java" />
@@ -108,6 +168,27 @@
         <option value="$PROJECT_DIR$/src/Matrix/RotateMatrix180Deg.java" />
         <option value="$PROJECT_DIR$/src/Matrix/RotateMatrix180Deg1.java" />
         <option value="$PROJECT_DIR$/src/Matrix/SortMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Matrix/MaxRowMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Matrix/MedianInRowSorted.java" />
+        <option value="$PROJECT_DIR$/src/Matrix/MultiplicationMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Matrix/MultiplyTwoSqureMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Matrix/ScalarMultiMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Matrix/TriangularMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test1.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test2.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test3.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test4.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test5.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test6.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Tesgt7.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/Test8.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Strings.java" />
+        <option value="$PROJECT_DIR$/src/Strings/AnagramCheckTest.java" />
+        <option value="$PROJECT_DIR$/src/Strings/DuplicateWords.java" />
+        <option value="$PROJECT_DIR$/src/Strings/AnagramCheck.java" />
+        <option value="$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java" />
       </list>
     </option>
   </component>
@@ -120,7 +201,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1095" />
     <option name="y" value="35" />
     <option name="width" value="805" />
@@ -151,6 +232,19 @@
               <item name="Java_Program" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Program" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Matrix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -162,14 +256,29 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="C:\arungupta\guptarun\Java_Program" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Strings" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,58 +292,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortMatrix">
-    <configuration name="RotateMatrix180Deg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix.RotateMatrix180Deg" />
+  <component name="RunManager" selected="Application.ReverseArray">
+    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.AnagramCheck" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RotateMatrix180Deg1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix.RotateMatrix180Deg1" />
+    <configuration name="DuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.DuplicateWords" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RotateMatrix90Deg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix.RotateMatrix90Deg" />
+    <configuration name="FirstNonRepeatedCharecter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.FirstNonRepeatedCharecter" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SortMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix.SortMatrix" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Array.ReverseArray" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix.*" />
+          <option name="PATTERN" value="Arrays.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Test1" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Array.Test8" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Arrays.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +390,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RotateMatrix90Deg" />
-      <item itemvalue="Application.RotateMatrix180Deg" />
-      <item itemvalue="Application.RotateMatrix180Deg1" />
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.SortMatrix" />
+      <item itemvalue="Application.Test8" />
+      <item itemvalue="Application.AnagramCheck" />
+      <item itemvalue="Application.DuplicateWords" />
+      <item itemvalue="Application.FirstNonRepeatedCharecter" />
+      <item itemvalue="Application.ReverseArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortMatrix" />
-        <item itemvalue="Application.RotateMatrix180Deg1" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.RotateMatrix180Deg" />
-        <item itemvalue="Application.RotateMatrix90Deg" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.FirstNonRepeatedCharecter" />
+        <item itemvalue="Application.AnagramCheck" />
+        <item itemvalue="Application.DuplicateWords" />
+        <item itemvalue="Application.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -314,15 +423,15 @@
       <workItem from="1540227963580" duration="10495000" />
       <workItem from="1540362807881" duration="3836000" />
       <workItem from="1540372831133" duration="5923000" />
-      <workItem from="1540457757839" duration="11854000" />
+      <workItem from="1540457757839" duration="31038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54794000" />
+    <option name="totallyTimeSpent" value="73978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -339,7 +448,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1328859" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -593,6 +702,18 @@
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Matrix/MultiplicationMatrix.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Sort/BubbleSort.java</url>
           <line>6</line>
@@ -632,183 +753,13 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="86" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="96" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OOPS/SwapObject3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Inheritance/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#1274#1275#0" expanded="true" />
-            <element signature="e#1311#1312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Encapsulation/Encapsulate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Abstraction/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Polymorphism/Dispatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Polymorphism/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Association/Association.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Aggregation/Aggregation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-          <folding>
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#1950#1959#0" expanded="true" />
-            <element signature="e#2127#2136#0" expanded="true" />
-            <element signature="e#2374#2386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Composition/Composition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#1064#1070#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Composition/AggregationVsComposition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/Encapsulation/TestEncapsulate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test4." />
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test4" />
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="756" selection-start-line="756" selection-end-line="756" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/This/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOPS/MethodOverLoading/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1064,10 +1015,153 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Matrix/SortMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix/MaxRowMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix/MedianInRowSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix/MultiplicationMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="66" column="4" lean-forward="true" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix/MultiplyTwoSqureMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix/ScalarMultiMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Matrix/TriangularMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test3.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Tesgt7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/AnagramCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/AnagramCheck.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#2006#2026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/DuplicateWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#614#622#0" expanded="true" />
+            <element signature="e#677#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
