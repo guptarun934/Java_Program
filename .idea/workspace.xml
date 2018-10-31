@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4cadf19-9194-4344-ba07-b1c38d98c3f7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Tesgt7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/MaxRowMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/MedianInRowSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/MultiplicationMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/MultiplyTwoSqureMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/ScalarMultiMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix/TriangularMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/AnagramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/DuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/StringReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array/StringReverseArray1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Program.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,20 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test3.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Test4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Array/Test5.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,9 +71,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringReverseArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/StringReverseArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringReverseArray1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Array/StringReverseArray1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="FirstNonRepeatedCharecter.java" pinned="false" current-in-tab="false">
@@ -138,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OOPS/This/Test5.java" />
-        <option value="$PROJECT_DIR$/src/OOPS/MethodOverLoading/Sum.java" />
         <option value="$PROJECT_DIR$/src/OOPS/MethodOverLoading/Main.java" />
         <option value="$PROJECT_DIR$/src/OOPS/MethodOverLoading/Main1.java" />
         <option value="$PROJECT_DIR$/src/OOPS/MethodOverLoading/Test.java" />
@@ -189,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/Strings/AnagramCheck.java" />
         <option value="$PROJECT_DIR$/src/Strings/FirstNonRepeatedCharecter.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/StringReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Array/StringReverseArray1.java" />
       </list>
     </option>
   </component>
@@ -201,7 +193,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1095" />
     <option name="y" value="35" />
     <option name="width" value="805" />
@@ -292,20 +284,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseArray">
+  <component name="RunManager" selected="Application.StringReverseArray1">
     <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Strings.AnagramCheck" />
-      <module name="Java_Program" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="DuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.DuplicateWords" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -337,8 +318,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Array.Test8" />
+    <configuration name="StringReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Array.StringReverseArray" />
+      <module name="Java_Program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringReverseArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Array.StringReverseArray1" />
       <module name="Java_Program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -390,19 +382,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test8" />
       <item itemvalue="Application.AnagramCheck" />
-      <item itemvalue="Application.DuplicateWords" />
       <item itemvalue="Application.FirstNonRepeatedCharecter" />
       <item itemvalue="Application.ReverseArray" />
+      <item itemvalue="Application.StringReverseArray" />
+      <item itemvalue="Application.StringReverseArray1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringReverseArray1" />
+        <item itemvalue="Application.StringReverseArray" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.FirstNonRepeatedCharecter" />
         <item itemvalue="Application.AnagramCheck" />
-        <item itemvalue="Application.DuplicateWords" />
-        <item itemvalue="Application.Test8" />
       </list>
     </recent_temporary>
   </component>
@@ -423,15 +415,15 @@
       <workItem from="1540227963580" duration="10495000" />
       <workItem from="1540362807881" duration="3836000" />
       <workItem from="1540372831133" duration="5923000" />
-      <workItem from="1540457757839" duration="31038000" />
+      <workItem from="1540457757839" duration="33994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73978000" />
+    <option name="totallyTimeSpent" value="76934000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -760,20 +752,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OOPS/MethodOverLoading/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOPS/MethodOverLoading/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -1161,7 +1139,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/Array/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/StringReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Array/StringReverseArray1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
